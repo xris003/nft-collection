@@ -1,1 +1,3 @@
-0x8814F4A6575333B7Da01874b5e1938B3d1925824
+This is basically just a minting website written in solidity for the purpose of learning. It is written in solidity and tested on goerli test network.
+DO not test on any mainnet unless you have complete understanding of this mint website.
+For more understanding you can visit metaschool.

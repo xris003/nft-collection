@@ -1,0 +1,6 @@
+.env
+node_modules
+artifacts
+cache
+hardhat.config.js
+nftmarket-react
